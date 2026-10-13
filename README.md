@@ -1,11 +1,7 @@
-# AmateurWeb
+# Personal Site
 Hello! My name is Jignesh, and if you're reading this:**Welcome to my website!**
 
 This website is a small project I built to introduce myself, share some of my interests, and showcase some of my projects I've worked on.
-
-## How does it work?
-
-Click on this link to be redirected to my website:[Personal Site](https://jigneshphalsawal-cloud.github.io/Personal-Site2/)
 
 And now let's start exploring page by page!
 
@@ -44,7 +40,7 @@ Thanks to a couple creators on youtube I was able to learn and grow my knowledge
 
 ## Creator:
 
-Made by **Jignesh**!
+Made by **Lantern**!
 
 ---
 
